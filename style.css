@@ -1,0 +1,24 @@
+.meme-generator{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.meme-generator img{
+    height: 430px;
+    width: 400px;
+    background-color: red;
+    object-fit: cover;
+}
+
+.meme-generate-btn{
+    padding: 8px 20px;
+    border: none;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    margin: 24px 0;
+    font-size: 20px;
+    color: red;
+    background: white;
+    font-weight: bold;
+    cursor: pointer;
+} 
